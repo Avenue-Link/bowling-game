@@ -1,7 +1,8 @@
 package com.avenuelink;
 
 public class BowlingGame {
-  public static void main(String[] args) {
-    System.out.println("Hello, world!");
+  public static int calculateScore(String scoreCard) {
+    // TODO: implement
+    return 0;
   }
 }
